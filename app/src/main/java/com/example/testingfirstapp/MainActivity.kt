@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         // add new thing :)
         //he he he
         //new one ha ha ha 
+        // new function
     }
 }
